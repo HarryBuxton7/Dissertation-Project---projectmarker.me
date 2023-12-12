@@ -4,7 +4,7 @@ This repo contains UI and API code for "Project Marker", a web app which enables
 
 The deployed app can be found at [projectmarker.me](https://projectmarker.me/)
 
-Website is deployed using CI/CD using Netlify for the client server and Render for the API server.
+Website is deployed with CI/CD using Netlify for the client server and Render for the API server.
 
 ## How to run locally
 
