@@ -2,7 +2,7 @@
 
 This repo contains UI and API code for "Project Marker", a web app which enables university lecturers to double-blind mark dissertation and thesis projects.
 
-The deployed app can be found at https://projectmarker.netlify.app
+The deployed app can be found at [projectmarker.me](https://projectmarker.me/)
 
 ## How to run locally
 
