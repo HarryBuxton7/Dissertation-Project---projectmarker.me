@@ -1,14 +1,14 @@
 # Submitted: 18/9/2023
 
-This was my 3 month long summer disseration project for my MSc Computer Science Degree.
+This was my 3 month long summer disseration project for my MSc Computer Science Degree
 
 # Project Marker 
 
-This repo contains UI and API code for "Project Marker", a web app which enables university lecturers to double-blind mark dissertation and thesis projects.
+This repo contains UI and API code for "Project Marker", a web app which enables university lecturers to double-blind mark dissertation and thesis projects
 
 The deployed app can be found at [projectmarker.me](https://projectmarker.me/)
 
-Website is deployed with CI/CD using Netlify for the client server and Render for the API server.
+Website is deployed with CI/CD using Netlify for the client server and Render for the API server
 
 ## How to run locally
 
