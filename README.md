@@ -1,3 +1,5 @@
+# Completed on: 18/9/2023
+
 # Project Marker 
 
 This repo contains UI and API code for "Project Marker", a web app which enables university lecturers to double-blind mark dissertation and thesis projects.
